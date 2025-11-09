@@ -1,1 +1,6 @@
 welcome !
+feat(tp): add talentprotocol mission note
+
+chore(tp): update mission-note and readme
+
+fix(doc): typo in README
